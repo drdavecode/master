@@ -1,0 +1,15 @@
+ Im#define Win32_128bit_coreflux.exe
+Second entry #if end 'as is' (temporary issue)
+$(Build_128bit_coreflux)
+Batch Run 128bit_coreflux $(Build_nodeauto/ autologger.pmd)
+if# "Test" bin, define Win32_IXCoin to wallet, dispatch "old alogo"
+$Build(add_node_autologger) 
+$Build(Imp.txt, sample rate 128bit)
+"Allow (Imp.txt) 'merge' (sample rate 128bit)"
+#define (sample rate 128bit) 'merge' (http://service.google.datamanagement)
+If# $Build (Proxy.res, contrib_Pull_autologger.pmt, pressedit.txt)
+If# "test" $build(core_ixc_subfiles.tmp)
+#define\\ (logdata.txt, pressedit.txt, pull_autologger.pmt) 'merge' (Proxy.res) 
+Bin 'all cache, into 'SRC/Local/as file complete history'
+#define (128bit_audio_input) 'merge' (proxy.res)
+$build 128bit_coreflux.exe, IMP.txt, proxy.res to avail "autologger_node"
